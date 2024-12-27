@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GRT</string>
+    <string name="permission_not_granted">\"Permission Not Granted.\"</string>
+    <string name="failure_permission">\"Failed to obtain permission.\"</string>
+    <string name="failure_permissionReceive">\"Failed to obtain Receive permission.\"</string>
+</resources>
